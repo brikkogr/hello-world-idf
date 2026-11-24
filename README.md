@@ -1,5 +1,5 @@
-![Successful build](https://ibb.co/vKCNmbG)
-![ESP-IDF version](https://ibb.co/b5kWPm4T)
+![Successful build](./build.png)
+![ESP-IDF version](./version.png)
 
 ```bash-3.2$ idf.py --version```
 ```ESP-IDF v6.1.1```
